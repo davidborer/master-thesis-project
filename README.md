@@ -1,7 +1,6 @@
 # Master thesis project 
-Concordance of genetic information to increase confidence in biomarkers
 
-The code in `analysis.ipynb` contains all analysis and data wrangling for this project. 
+The code in `analysis.ipynb` contains all analysis and data wrangling for this project. The links in the table of content do not work when displayed in GitHub.
 
 
 Project title: 
