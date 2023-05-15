@@ -3,7 +3,7 @@ Concordance of genetic information to increase confidence in biomarkers
 
 
 Project title: 
-# Enhanced Confidence for HER2 Status Predictions in Breast Cancer using Different Genomic Profiles
+### Enhanced Confidence for HER2 Status Predictions in Breast Cancer using Different Genomic Profiles
 
 Abstract: 
 Decision in precision oncology are driven by extensive testing for many biomark-
